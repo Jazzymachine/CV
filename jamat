@@ -1,0 +1,78 @@
+<!doctype html>
+<html>
+<head>
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+	<title>Cv Jasmien Mattheussen</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+</head>
+<body style="font-family: Source Code Pro ; font-size: 14px ; border-style: solid ; border-color: #DD0276 ; border-radius: 25px">
+	<img src= Profielfoto.jpg align="right">
+	<br>
+	<br>
+	<br>
+
+	<div class="tab1">
+		<table>
+			<col width="400">
+			<col width="500">
+			<tr>
+				<td>Hof ter schriecklaan 40 Bus 1</td>
+				<td> °18 maart 1993</td>
+			</tr>
+			<tr>
+				<td> 2600 Berchem</td>
+				<td>In het bezit van wagen en rijbewijs B</td>
+			</tr>
+			<tr>
+				<td style="color: #DD0276">+32 485 74 29 36</td>
+			</tr>
+			<tr>
+				<td style="color: #DD0276">jamat_be@hotmail.com</td>
+			</tr>
+
+		</table>
+	</div>
+	<h1 align="center">Jasmien <br> Mattheussen</h1>
+	<hr>
+
+	<div class="tab1"><h3>Competenties</h3>
+		<h4>Sterktes:</h4> Analytisch / Kritisch / Vlotte Communicator / Organisatorisch sterk / Oplossingsgericht / Leergierig
+		<br>
+		<h4>Talen:</h4> Nederlands (Moedertaal) / Engels (Zeer goed) / Frans (Goed) / Duits (Noties)<br></div>
+	<hr>
+	<div class="tab1">
+		<h3>Werkervaring</h3>		
+			<h4>Familiehulp</h4><i> - Ict partner (Oktober 2017 - Oktober 2019)</i>
+
+			<ul class="tab2">
+				<li>Verantwoordelijk voor coaching, vorming en user adaptation op vlak van ICT bij gebruikers</li>
+				<li>Vorming en nazorg via individuele of groepssessies</li>
+				<li>Maken van e-learnings en ander didactisch materiaal</li>
+				<li>Ondersteuning bij nieuwe projecten: GAP analyse en testing</li>
+				<li>Sleutelrol in project Rio: Introductie van nieuwe planningstool</li>
+			</ul>
+		
+		<h4>Vio interim</h4><i> - Uitzendconsulente (Oktober 2014 - januari 2015)</i>
+
+			<ul class="tab2">
+				<li>Zoektocht naar geschikte match tussen kandidaat en job</li>
+				<li>Opvolging van uitzendkrachten</li>
+				<li>Administratieve taken</li>
+			</ul>
+</div>	
+
+	<hr>
+
+<div class="tab1">
+	<h3>Opleiding</h3>
+		<h4>Universiteit Antwerpen</h4><i> - Specifieke lerarenopleiding (2015 - 2017)</i><br>
+		<h4>Universiteit Antwerpen</h4><i> - Master in de geschiedenis (2010 - 2015)</i><br>
+		<h4>Secundair onderwijs, Sint-Gabriëlcollege Boechout</h4><i> - Humane wetenschappen (2004 - 2010)</i><br><br>
+
+	<div class="LI-profile-badge" data-version="v1" data-size="medium" data-locale="nl_NL" data-type="horizontal" data-theme="light" data-vanity="jasmien-mattheussen-746a7a144"><a class="LI-simple-link" href='https://be.linkedin.com/in/jasmien-mattheussen-746a7a144?trk=profile-badge'>Jasmien Mattheussen</a></div><br>
+	
+	</div>
+</body>
+</html>
+
